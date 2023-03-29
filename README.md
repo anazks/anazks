@@ -10,8 +10,8 @@
 
 
 
-- 📫 How to reach me: ..# 💫 About Me:
-🔭 I’m currently working on javascript <br>👯 I’m looking to collaborate<br>🌱 I’m currently learning new yech stack <br>💬 Ask me about javascript/node<br>⚡ Fun fact 
+- 📫 How to reach me:anazksunil2@gmail.com# 💫 About Me:
+🔭 I’m currently working on javascript <br>👯 I’m looking to collaborate<br>🌱 I’m currently learning new Tech stack <br>💬 Ask me about javascript/node<br>⚡ Fun fact 
 
 
 ## 🌐 Socials:
